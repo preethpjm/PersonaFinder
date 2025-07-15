@@ -81,7 +81,7 @@ OPENROUTER_API_KEY=enter_here
 
 ## 🚀 Try it Out (No Installation)
 
-👉 [**Launch the Streamlit App**](the link)
+👉 [**Launch the Streamlit App**](https://personafinder.streamlit.app/)
 
 > *(The link will open a web app version of this project — no setup, installation, or `.env` configuration needed!)*
 
