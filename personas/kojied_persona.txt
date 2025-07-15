@@ -1,0 +1,79 @@
+ ____                                   _____ _           _           
+|  _ \ ___ _ __ ___  ___  _ __   __ _  |  ___(_)_ __   __| | ___ _ __ 
+| |_) / _ \ '__/ __|/ _ \| '_ \ / _` | | |_  | | '_ \ / _` |/ _ \ '__|
+|  __/  __/ |  \__ \ (_) | | | | (_| | |  _| | | | | | (_| |  __/ |   
+|_|   \___|_|  |___/\___/|_| |_|\__,_| |_|   |_|_| |_|\__,_|\___|_|                                                     
+
+                                   Persona Finder by Preeth Jwo Martin
+
+==============================================================================================
+
+NAME: kojied
+
+----------------------------------------------------------------------------------------------
+"New York City is equally adventurous to each, so who am I to judge how others enjoy this adventurous city."
+----------------------------------------------------------------------------------------------
+
+AGE: 30s
+             
+OCCUPATION: iOS developer
+
+LOCATION: New York City
+
+STATUS: Unknown
+
+ARCHETYPE: Explorer (open to new experiences, passionate about innovation, and interested in understanding the world)
+______________________________________________________________________________________________
+
+PERSONALITY
+
+INTROVERTED [■■■■■■■■------------] EXTROVERTED
+
+INTUITIVE   [■■■■■■■■■-----------] SENSING
+
+FEELING     [■■■■■■■■■■■■■■■■■---] THINKING
+
+PERCEIVING  [■■■■■■■■■■■■■■------] JUDGING
+
+______________________________________________________________________________________________
+
+MOTIVATIONS
+
+- Passionate about technology and innovation, particularly in the fields of AR, VR, and spatial computing.
+
+- Interested in sustainable living and reducing individual impact on the environment.
+
+- Shares ideas and opinions about various topics, from politics to pop culture.
+
+______________________________________________________________________________________________
+
+FRUSTRATIONS
+
+- Feels violated by a change in environment and the behavior of younger individuals in a familiar social setting.
+
+- Frustration with the current state of NFTs and their potential.
+
+- Critical of companies and their treatment of ESG ratings and consumer activism.
+
+______________________________________________________________________________________________
+
+BEHAVIOUR & HABITS
+
+- Frequents a local bar.
+
+- Enjoys trying new foods and restaurants.
+
+- Shares ideas and opinions online, often engaging with others on Reddit.
+
+______________________________________________________________________________________________
+
+GOALS & NEEDS
+
+- To build a better life in the US, possibly through technology and innovation.
+
+- To reduce individual impact on the environment.
+
+- To engage in meaningful discussions and share ideas.
+
+
+==============================================================================================
