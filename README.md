@@ -19,6 +19,7 @@ Persona Finder analyzes a Reddit user's activity (posts + comments) and uses an 
 - Archetype and a signature quote
 
 The output is a beautifully formatted `.txt` file saved in the `/personas` folder.
+### Link provided below to test the app in streamlit
 
 ---
 
